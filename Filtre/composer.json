@@ -1,6 +1,6 @@
 {
-  "name": "zac/zac",
-  "description": "Cnam Aquitaine Framework",
+  "name": "zac/filtre",
+  "description": "Filtre multi-criteres",
   "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
@@ -10,9 +10,7 @@
     }
   ],
   "require": {
-    "php": ">=5.3"
-  },
-  "require-dev": {
-    "monolog/monolog": "2.*"
+    "zac/common": "dev",
+    "zac/db": "dev"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "name": "zac/db",
+  "description": "Interface",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Denis Fohl",
+      "email": "denis.fohl@lecnam.net"
+    }
+  ]
+}
